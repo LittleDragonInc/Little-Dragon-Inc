@@ -1,5 +1,5 @@
 .box {
-max-width : 42em;
+max-width : 55em;
 background-color : #FFF;
 /*border : #AAA solid .1em;*/
 box-shadow : .1em .1em .1em .1em #fff;
@@ -9,7 +9,7 @@ padding : 3em;
 font-size:1em;
 }
 .boxl {
-max-width : 42em;
+max-width : 55em;
 background-color : #FFF;
 /*border : #AAA solid .1em;*/
 box-shadow : .1em .1em .1em .1em #fff;

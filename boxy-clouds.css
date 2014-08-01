@@ -1,18 +1,16 @@
 .box {
-max-width : 42em;
+max-width : 55em;
 background-color : #FFF;
 /*border : #AAA solid .1em;*/
-box-shadow : .1em .1em .1em .1em #fff;
 text-align : center;
 margin : auto;
 padding : 3em;
 font-size:1em;
 }
 .boxl {
-max-width : 42em;
+max-width : 55em;
 background-color : #FFF;
 /*border : #AAA solid .1em;*/
-box-shadow : .1em .1em .1em .1em #fff;
 margin : auto;
 padding : 3em;
 }
@@ -58,13 +56,13 @@ padding : 0;
 }
 
 nav li {
-padding-right : 0.5em;
+padding-right : 0.3em;
 float : left;
 }
 nav ul > .right{
 list-style-type : none;
 float:right;
-padding-left : 0.5em;
+padding-left : 0.3em;
 padding-right:0em;
 }
 nav a {
@@ -73,8 +71,7 @@ display : block;
 text-decoration : none;
 background-color : #FFF;
 color : #000;
-padding : 0.2em .4em 0em .4em;
-box-shadow : .1em .1em .1em .1em #fff;
+padding : 0.2em .5em;
 
 }
 nav a:hover {
