@@ -1,5 +1,5 @@
 .box {
-max-width : 42em;
+max-width : 48em;
 background-color : #FFF;
 /*border : #AAA solid .1em;*/
 box-shadow : .1em .1em .1em .1em #fff;
@@ -9,7 +9,7 @@ padding : 3em;
 font-size:1em;
 }
 .boxl {
-max-width : 42em;
+max-width : 48em;
 background-color : #FFF;
 /*border : #AAA solid .1em;*/
 box-shadow : .1em .1em .1em .1em #fff;
@@ -37,8 +37,10 @@ white-space : nowrap;
 margin : 0;
 }
 html, body {
+
 height : 100%;
 background-color : #C8FAFA;
+
 }
 .wrapper {
 min-height : 100%;
@@ -49,6 +51,8 @@ footer, .push {
 height : 36px;
 }
 nav {
+	max-width : 42em;
+
 font-size : 1.4em;
 padding : 0;
 }
@@ -97,6 +101,10 @@ height : 100%;
 float : left;
 width : 0;
 margin-top : -32767px;
+}
+#foot{
+		max-width : 60em;
+
 }
 #foot #left {
 float : left;
